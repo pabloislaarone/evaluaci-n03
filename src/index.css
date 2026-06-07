@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0a0a0a;
+  color: #e5e7eb;
+  font-family: 'Courier New', monospace;
+  margin: 0;
+}
+
+.portal-glow {
+  box-shadow: 0 0 20px #39ff1433, 0 0 40px #39ff1411;
+  border-color: #39ff14;
+}
+
+.portal-glow:hover {
+  box-shadow: 0 0 30px #39ff1466, 0 0 60px #39ff1422;
+}
+
+.card-hover {
+  transition: all 0.2s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 0 20px #39ff1433;
+  border-color: #39ff14;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.status-alive { background-color: #39ff14; }
+.status-dead { background-color: #ef4444; }
+.status-unknown { background-color: #6b7280; }

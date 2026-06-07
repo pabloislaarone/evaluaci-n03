@@ -35,11 +35,8 @@ npm run dev
 ### E4 — Filtro por estado activo
 ![e4](docs/e4-filtro.png)
 
-### E5 — Navegación entre rutas
-![e5](docs/e5-router.png)
-
-### E6 — Consumo de API (DevTools Network)
+### E5 — Consumo de API (DevTools Network)
 ![e6](docs/e6-api.png)
 
-### E7 — Deploy en Vercel
+### E6 — Deploy en Vercel
 ![e7](docs/e7-vercel.png)

@@ -10,14 +10,14 @@ App React que consume la Rick and Morty API pública.
 ## 🚀 Ejecutar
 
 ```bash
-git clone https://github.com/TU_USUARIO/rickmorty-react.git
+git clone https://github.com/pabloislaarone/evaluaci-n03.git
 cd rickmorty-react
 npm install
 npm run dev
 ```
 
-🌐 Deploy: https://rickmorty-react-xxx.vercel.app  
-📹 Video: https://youtube.com/TU_LINK
+🌐 Deploy: https://evaluaci-n03.vercel.app/ 
+📹 Video: https://youtu.be/NpM-v6Jr-Dc
 
 ---
 

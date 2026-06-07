@@ -36,7 +36,8 @@ npm run dev
 ![e4](docs/evi04.png)
 
 ### E5 — Consumo de API (DevTools Network)
-![e6](docs/evi05.png)
+![e5](docs/evi05.png)
 
 ### E6 — Deploy en Vercel
-![e7](docs/evi06.png)
+![e6](docs/evi06.png)
+![e7](docs/evi07.png)
